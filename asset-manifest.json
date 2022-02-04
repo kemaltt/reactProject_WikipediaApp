@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactProject_WikipediaApp/static/css/main.d845708e.css",
+    "main.js": "/reactProject_WikipediaApp/static/js/main.91b2bf9b.js",
+    "static/media/wikipedia-logo_1.png": "/reactProject_WikipediaApp/static/media/wikipedia-logo_1.cdf5ccb93fb781e5d78b.png",
+    "index.html": "/reactProject_WikipediaApp/index.html",
+    "main.d845708e.css.map": "/reactProject_WikipediaApp/static/css/main.d845708e.css.map",
+    "main.91b2bf9b.js.map": "/reactProject_WikipediaApp/static/js/main.91b2bf9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d845708e.css",
+    "static/js/main.91b2bf9b.js"
+  ]
+}
