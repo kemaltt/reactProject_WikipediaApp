@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("/public/wikipedia-logo_1.png");
+    background-image: url("https://www.gesellschaftswissenschaften-phfhnw.ch/wp-content/uploads/2015/06/wikipedia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#description {
+    background-color: #efefef;
+}
+
+.header_1 {
+    text-align: center;
+    padding: 1rem;
+}
