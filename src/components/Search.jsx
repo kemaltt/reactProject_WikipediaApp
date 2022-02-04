@@ -59,7 +59,6 @@ export default function Search() {
           <div className="ui icon input">
             <input
               onChange={(e) => inputChange(e)}
-              // onChange = {(e) => setTerm(e.target.value)}
               type="text"
               value={term}
               size="large"
